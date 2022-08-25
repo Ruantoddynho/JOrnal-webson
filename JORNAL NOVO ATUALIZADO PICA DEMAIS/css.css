@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+    body{background-color:#DEC7CF;
+        margin: 0%;
+    }
+    h1{
+        margin: 0%;    
+    }
+div.cabecalho{
+    height: 90px;
+}
